@@ -1,0 +1,74 @@
+body {
+  background: #c7d7f6;
+  font-size: 13px;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+.section {
+  background-color: skyblue;
+  width: 50%;
+}
+.section .list {
+  display: flex;
+  list-style: none;
+}
+.section .list li {
+  padding: 10px;
+  background-color: aliceblue;
+}
+.section .list li:last-child {
+  background-color: blueviolet;
+}
+.section .list li:hover {
+  background-color: #ee4444;
+}
+
+.btn {
+  background-color: #a4d4fb;
+}
+.btn.active {
+  background-color: #4984fa;
+}
+.btn.active:hover {
+  background-color: #2e54a0;
+}
+.btn:hover {
+  background-color: #8ccbff;
+}
+
+.fs-small {
+  color: #ee4444;
+  font-size: 20px;
+}
+.fs-medium {
+  color: #2e54a0;
+  font-size: 15px;
+}
+.fs-large {
+  color: blueviolet;
+  font-size: 10px;
+}
+
+.product li {
+  width: 300px;
+  height: 20px;
+  background-color: #ebc7f6;
+  margin: 3px;
+}
+.box {
+  width: 300px;
+  height: 20px;
+  background-color: #ebc7f6;
+}
+
+.box {
+  width: 100px;
+  background-color: #ee4444;
+  margin-top: 10px;
+  margin-left: 30px;
+  padding-bottom: 20px;
+  padding-right: 40px;
+}

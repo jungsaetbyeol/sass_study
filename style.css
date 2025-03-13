@@ -25,7 +25,7 @@
 }
 
 .footer {
-  background-color: rgb(28.5740585774, 107.9464435146, 161.1259414226);
+  background-color: #1d6ca1;
   color: #fff;
   text-align: center;
   padding: 20px;
@@ -40,7 +40,7 @@
   margin: 20px;
 }
 .container .card {
-  background-color: rgb(181.9539748954, 217.9372384937, 242.0460251046);
+  background-color: #b6daf2;
   color: #333;
   width: 40%;
 }
@@ -57,5 +57,3 @@
   background-color: #ff5733;
   color: #fff;
 }
-
-/*# sourceMappingURL=style.css.map */
